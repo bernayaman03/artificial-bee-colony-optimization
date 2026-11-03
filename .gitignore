@@ -1,0 +1,6 @@
+*.asv
+*.autosave
+*.m~
+slprj/
+*.slxc
+*.mex*
